@@ -1,5 +1,5 @@
 <h1>Topic Name</h1>
-This would be a short 2 line description of the topic that will allow others to understand what the implementation is aboout
+We implemented python code using modules like requests, bs4, collection, pandas, re, etc to scrape the given URLs of websites which would display the output of the common words in their descending order of frequency after comparing the different websites and save these words in a .csv file that can be used for the analysis.
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
